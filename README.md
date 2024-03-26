@@ -1,1 +1,1 @@
-# cinfo2    check this out
+# cinfo2
